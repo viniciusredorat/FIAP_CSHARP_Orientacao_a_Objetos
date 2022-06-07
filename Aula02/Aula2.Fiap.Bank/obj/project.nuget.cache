@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mytBvxTDJK+R76avRqEgtToBQVZQHZohO2zRcdh+6rUOcRHE0BF1WdnbWDyTuymLwNqN/BzqL5Dck3Y1IKY0IA==",
+  "success": true,
+  "projectFilePath": "D:\\FIAP_CSHARP\\Aulas\\Git\\Task_OO\\Aula2.Fiap\\Aula2.Fiap.Bank\\Aula2.Fiap.Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
